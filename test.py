@@ -1,0 +1,1 @@
+print("Success! The project environment is working.")
