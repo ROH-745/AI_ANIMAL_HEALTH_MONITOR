@@ -1,0 +1,9 @@
+git add .
+git commit -m "Initial project setup"
+git push -u origin main
+
+
+conda install -c conda-forge opencv
+pip install mediapipe
+conda install pandas
+

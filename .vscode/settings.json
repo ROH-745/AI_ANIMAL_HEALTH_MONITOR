@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Rohith\\.conda\\envs\\animal_monitor\\python.exe",
+  "terminal.integrated.profiles.windows": {
+    "Command Prompt (conda)": {
+      "path": "cmd.exe",
+      "args": ["/K", "C:\\ProgramData\\anaconda3\\Scripts\\activate.bat C:\\Users\\Rohith\\.conda\\envs\\animal_monitor"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt (conda)"
+}
