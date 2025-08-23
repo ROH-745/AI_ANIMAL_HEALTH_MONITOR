@@ -2,6 +2,13 @@ git add .
 git commit -m "Initial project setup"
 git push -u origin main
 
+git clone ""
+cd 
+pip install -r requirements.txt
+
+git pull
+pip install -r requirements.txt
+
 
 conda install -c conda-forge opencv
 pip install mediapipe
